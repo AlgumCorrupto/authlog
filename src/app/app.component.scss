@@ -1,0 +1,31 @@
+p, li {
+    font-size: 21px;
+}
+
+.auth {
+    margin: 5% auto;
+    width: 40%;
+}
+
+.auth-popup ul {
+    display: flex;
+    flex-wrap: nowrap;
+    margin: 0;
+    padding-left: 1rem;
+}
+.auth-popup li {
+    margin-right: 10px;
+    padding: 1rem 0;
+}
+
+.auth-screen {
+    margin:0 auto;
+    border-radius: 10px;
+    text-align: center;
+    background-color: black;
+    p {
+        padding: 1em;
+        margin: 0;
+        color: white;
+    }
+}
